@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Copse, Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
@@ -256,13 +256,7 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 30px 0;
-  position: absolute;
-  top: 200px;
-  left: 0px;
-  right: 0px;
-  bottom: 0px;
-  overflow-y: scroll; }
+  padding: 30px 0; }
 
 .page-heading {
   font-size: 20px; }
@@ -275,7 +269,10 @@ pre {
 
 .post-meta {
   font-size: 14px;
-  color: #828282; }
+  color: #ededed;
+  background-color: black;
+  display: inline-block;
+  padding: 3px; }
 
 .post-link {
   display: block;

@@ -5,26 +5,18 @@
     <description></description>
     <link>http://www.honingmaan.nl/</link>
     <atom:link href="http://www.honingmaan.nl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Nov 2014 22:27:31 +0100</pubDate>
-    <lastBuildDate>Wed, 26 Nov 2014 22:27:31 +0100</lastBuildDate>
+    <pubDate>Wed, 26 Nov 2014 23:40:19 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2014 23:40:19 +0100</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;p&gt;Videoooootje&lt;/p&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+        <title>Torre del Paine!</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/8626944/5201895/2d560a26-7578-11e4-98ee-62c461a06c8c.jpg&quot; alt=&quot;Plaatje&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 27 Nov 2014 18:59:24 +0100</pubDate>
-        <link>http://www.honingmaan.nl/jekyll/update/2014/11/27/iets-anders.html</link>
-        <guid isPermaLink="true">http://www.honingmaan.nl/jekyll/update/2014/11/27/iets-anders.html</guid>
+        <pubDate>Fri, 28 Nov 2014 18:59:24 +0100</pubDate>
+        <link>http://www.honingmaan.nl/jekyll/update/2014/11/28/torre-del-paine.html</link>
+        <guid isPermaLink="true">http://www.honingmaan.nl/jekyll/update/2014/11/28/torre-del-paine.html</guid>
         
         
         <category>jekyll</category>
@@ -34,27 +26,25 @@
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Ola!</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc iaculis, ex nec luctus facilisis, nisi nulla pretium arcu, sit amet vestibulum ipsum ligula sed neque. Nunc id eros pulvinar, pharetra nulla at, placerat justo. Nunc vehicula neque metus, a ultricies nisi vestibulum eget. Donec at risus nec risus ornare molestie. Integer nisi augue, imperdiet non mi et, semper mattis erat. Sed non nisi dignissim, placerat sem ut, dictum ipsum. Maecenas pharetra, dolor sed imperdiet commodo, tellus magna maximus ipsum, sed gravida justo metus sed justo. Suspendisse id porttitor nulla. Praesent interdum orci quis pulvinar gravida. Nam consectetur arcu nec libero tempus, id blandit risus placerat. Fusce semper placerat ligula, non vestibulum augue pharetra vitae. Suspendisse luctus aliquet tempus. Phasellus tincidunt elementum purus, quis scelerisque eros luctus nec.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Aenean dapibus et arcu ut scelerisque. In eget ligula mauris. In sagittis efficitur enim varius tincidunt. Sed ac augue magna. Donec metus lacus, suscipit quis felis a, lobortis congue lorem. Sed rhoncus ipsum a tempus viverra. Nullam quis tincidunt leo. In enim velit, mollis ac quam vitae, congue rutrum nisi. Proin tempor turpis non ex ullamcorper ultrices. Nulla sed ante pellentesque, tempor elit vel, dapibus nisl. Quisque sodales nisl sit amet pellentesque sollicitudin. Phasellus at fringilla tellus. Quisque et neque dui. Cras eu commodo lectus, ut condimentum leo. Duis faucibus orci sed tortor dapibus posuere.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Mauris non elementum risus. Duis auctor dui id elit dictum accumsan. Nullam tristique, metus non fringilla convallis, massa felis fringilla justo, et ultrices tellus dolor a erat. In hac habitasse platea dictumst. Nullam vehicula nunc nec sapien tempor fermentum. Proin interdum risus a efficitur tempor. Donec sit amet leo facilisis, tincidunt quam et, pellentesque mi. Fusce hendrerit at massa nec lobortis. Vivamus in enim leo. Curabitur semper ex in elit posuere, a tempor tortor venenatis. Suspendisse vehicula mi libero, sed congue sem feugiat sit amet. Ut vel venenatis quam, quis luctus turpis. In fermentum erat id leo gravida, ut consectetur massa euismod.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Ut a nibh blandit, rhoncus purus sit amet, tincidunt mi. Fusce tempor lectus quam, nec venenatis ex vestibulum pellentesque. Pellentesque in consectetur dui. Nam nec lorem ultricies, pulvinar tortor a, feugiat ex. In tempor cursus enim, eu ullamcorper lectus finibus vel. In hac habitasse platea dictumst. Etiam hendrerit quam vel felis ultricies pharetra. Nam luctus neque in tellus rutrum, at suscipit diam posuere.&lt;/p&gt;
 
-&lt;iframe src=&quot;//player.vimeo.com/video/30036286&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Maecenas at pretium enim. Duis facilisis venenatis massa. Nulla vitae pulvinar neque. Nam nec nisl nisl. Duis sit amet semper eros, ut auctor ipsum. Sed interdum, dui in hendrerit egestas, purus elit gravida eros, sed porttitor sapien lectus nec nibh. Maecenas tempus id quam eget venenatis. Vivamus felis ante, blandit in odio et, convallis molestie massa.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/8626944/5201895/2d560a26-7578-11e4-98ee-62c461a06c8c.jpg&quot; alt=&quot;Plaatje&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/8626944/5201895/2d560a26-7578-11e4-98ee-62c461a06c8c.jpg&quot; alt=&quot;Plaatje&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 26 Nov 2014 18:59:24 +0100</pubDate>
-        <link>http://www.honingmaan.nl/jekyll/update/2014/11/26/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://www.honingmaan.nl/jekyll/update/2014/11/26/welcome-to-jekyll.html</guid>
+        <pubDate>Thu, 27 Nov 2014 18:59:24 +0100</pubDate>
+        <link>http://www.honingmaan.nl/jekyll/update/2014/11/27/iets-anders.html</link>
+        <guid isPermaLink="true">http://www.honingmaan.nl/jekyll/update/2014/11/27/iets-anders.html</guid>
         
         
         <category>jekyll</category>

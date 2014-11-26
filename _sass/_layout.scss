@@ -160,12 +160,6 @@
  */
 .page-content {
     padding: $spacing-unit 0;
-    position:absolute;
-    top: 200px;
-    left:0px;
-    right:0px;
-    bottom:0px;
-    overflow-y:scroll;  
 }
 
 .page-heading {
@@ -183,7 +177,10 @@
 
 .post-meta {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: $white-color;
+    background-color: black;
+    display: inline-block;
+    padding: 3px;
 }
 
 .post-link {
