@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Nov 2014 19:30:22 +0100</pubDate>
-    <lastBuildDate>Wed, 26 Nov 2014 19:30:22 +0100</lastBuildDate>
+    <title>honingmaan.nl - Sietske en Bas in Patagonië</title>
+    <description></description>
+    <link>http://www.honingmaan.nl/</link>
+    <atom:link href="http://www.honingmaan.nl/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 26 Nov 2014 22:27:31 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2014 22:27:31 +0100</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
     
       <item>
@@ -18,14 +17,14 @@
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/8626944/5201895/2d560a26-7578-11e4-98ee-62c461a06c8c.jpg&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Videoooootje&lt;/p&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 27 Nov 2014 18:59:24 +0100</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/11/27/iets-anders.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/11/27/iets-anders.html</guid>
+        <link>http://www.honingmaan.nl/jekyll/update/2014/11/27/iets-anders.html</link>
+        <guid isPermaLink="true">http://www.honingmaan.nl/jekyll/update/2014/11/27/iets-anders.html</guid>
         
         
         <category>jekyll</category>
@@ -48,14 +47,14 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/8626944/5201895/2d560a26-7578-11e4-98ee-62c461a06c8c.jpg =100px&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
+&lt;iframe src=&quot;//player.vimeo.com/video/30036286&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 26 Nov 2014 18:59:24 +0100</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/11/26/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/11/26/welcome-to-jekyll.html</guid>
+        <link>http://www.honingmaan.nl/jekyll/update/2014/11/26/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://www.honingmaan.nl/jekyll/update/2014/11/26/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>

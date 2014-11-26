@@ -16,7 +16,7 @@ body {
   line-height: 1.5;
   font-weight: 300;
   color: #111;
-  background-color: #fdfdfd;
+  background-color: #ffffff;
   -webkit-text-size-adjust: 100%; }
 
 /**
@@ -146,9 +146,7 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
-  min-height: 56px;
+  margin-top: 5px;
   position: relative; }
 
 .site-title {
@@ -175,7 +173,7 @@ pre {
       position: absolute;
       top: 9px;
       right: 30px;
-      background-color: #fdfdfd;
+      background-color: #ffffff;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
       text-align: right; }
@@ -258,7 +256,13 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 30px 0; }
+  padding: 30px 0;
+  position: absolute;
+  top: 200px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  overflow-y: scroll; }
 
 .page-heading {
   font-size: 20px; }
