@@ -16,7 +16,6 @@ Ut a nibh blandit, rhoncus purus sit amet, tincidunt mi. Fusce tempor lectus qua
 
 Maecenas at pretium enim. Duis facilisis venenatis massa. Nulla vitae pulvinar neque. Nam nec nisl nisl. Duis sit amet semper eros, ut auctor ipsum. Sed interdum, dui in hendrerit egestas, purus elit gravida eros, sed porttitor sapien lectus nec nibh. Maecenas tempus id quam eget venenatis. Vivamus felis ante, blandit in odio et, convallis molestie massa.
 
-![Plaatje](https://cloud.githubusercontent.com/assets/8626944/5201895/2d560a26-7578-11e4-98ee-62c461a06c8c.jpg)
+![image](https://cloud.githubusercontent.com/assets/8626944/5218109/20e3187a-7649-11e4-8f75-80fc89058309.jpg)
 
 ![Plaatje](https://cloud.githubusercontent.com/assets/8626944/5201895/2d560a26-7578-11e4-98ee-62c461a06c8c.jpg)
-
