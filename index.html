@@ -7,6 +7,7 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
+        <div class="post-meta">Gepost door: {{ post.author }}</div>
         <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
         <div class="post-meta">{{ post.location }}</div>
 

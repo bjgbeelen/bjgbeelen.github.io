@@ -3,6 +3,7 @@ layout: post
 title:  "Torre del Paine!"
 date:   2014-11-28 17:59:24
 location: Santiago de Chile
+author: Bas
 categories: jekyll update
 ---
 

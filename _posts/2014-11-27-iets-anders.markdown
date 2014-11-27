@@ -3,6 +3,7 @@ layout: post
 title:  "Ola!"
 date:   2014-11-27 17:59:24
 location: Santiago de Chile
+author: Sietske
 categories: jekyll update
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc iaculis, ex nec luctus facilisis, nisi nulla pretium arcu, sit amet vestibulum ipsum ligula sed neque. Nunc id eros pulvinar, pharetra nulla at, placerat justo. Nunc vehicula neque metus, a ultricies nisi vestibulum eget. Donec at risus nec risus ornare molestie. Integer nisi augue, imperdiet non mi et, semper mattis erat. Sed non nisi dignissim, placerat sem ut, dictum ipsum. Maecenas pharetra, dolor sed imperdiet commodo, tellus magna maximus ipsum, sed gravida justo metus sed justo. Suspendisse id porttitor nulla. Praesent interdum orci quis pulvinar gravida. Nam consectetur arcu nec libero tempus, id blandit risus placerat. Fusce semper placerat ligula, non vestibulum augue pharetra vitae. Suspendisse luctus aliquet tempus. Phasellus tincidunt elementum purus, quis scelerisque eros luctus nec.
