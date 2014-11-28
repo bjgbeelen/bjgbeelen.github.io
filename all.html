@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site.posts limit:3 %}
+    {% for post in site.posts %}
       <li>
         <div class="post-meta">Gepost door: {{ post.author }}</div>
         <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
@@ -19,12 +19,6 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-
-  {% assign post_count = site.posts | size %}
-  
-  {%if post_count > 3%}
-  <a href="all.html">Bekijk eerdere posts</a>
-  {% endif %}
 
 </div>
 
