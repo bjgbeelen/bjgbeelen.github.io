@@ -1,12 +1,12 @@
 ---
-title: Parezco cómo un cangrejo
-author: Sietske
+title: Me parezco cómo un cangrejo
+Author: Sietske
 date: 2014-12-08
 location: Valparaíso
 ---
 Hopelijk heeft iedereen een mooie sinterklaasavond gehad met veel lekkers, leuke gedichten en mooie surprises. Hier is dat volledig aan ons voorbij gegaan, mede door de warmte staan we er niet bij stil dat het in Nederland tijd is voor warme chocolademelk bij een gezellig haardvuur. Het lijkt ons ook erg bijzonder om kerst in de hitte te vieren, grappig om hier kerstbomen, kerstmannen en cactusplanten naast elkaar te zien staan.
 
-We zijn nog maar een paar dagen van huis en hebben toch al erg veel beleefd! Ik schrijf dit stukje terwijl we in de bus van Valparaíso naar Santiago rijden. Grappig detail hier in de bus is dat er een bord hangt waarop je kunt zien hoe snel we rijden en dat wanneer we te hard gaan, we ons tot de buschauffeur moeten wenden. En natuurlijk zie ik er na een eerste dag zon meteen uit als een kreeft, maar dat geeft niks, dat wordt wel bruin hoop ik :-) (Parezco cómo un cangrejo zeg ik hier dan haha)
+We zijn nog maar een paar dagen van huis en hebben toch al erg veel beleefd! Ik schrijf dit stukje terwijl we in de bus van Valparaíso naar Santiago rijden. Grappig detail hier in de bus is dat er een bord hangt waarop je kunt zien hoe snel we rijden en dat wanneer we te hard gaan, we ons tot de buschauffeur moeten wenden. En natuurlijk zie ik er na een eerste dag zon meteen uit als een kreeft, maar dat geeft niks, dat wordt wel bruin hoop ik :-) (Me parezco cómo un cangrejo zeg ik hier dan haha)
 Onze twee privelessen Spaans van docent Luis (zie foto) zitten er al weer op, heel leerzaam maar niet echt gestructureerd. Meteen vanaf de eerste minuut mocht er alleen Spaans gesproken worden met elkaar, aan het eind van de eerste dag waren we dan ook gebroken door alle inspanningen, nieuwe indrukken en wellicht ook nog van de lange vlucht van de dag ervoor. Vandaag is het een feestdag (geen idee welk feest...) dus is er helaas geen les. Morgen begint de groepscursus op niveau 1, benieuwd wat we daar weer zullen leren! Thuis bij het gastgezin wordt er ook bijna alleen maar Spaans gesproken. Er verblijven hier ook nog een jongen en meisje uit Zwitserland (Zürich en Bern). Morella (de gastvrouw) is erg behulpzaam en spreekt voor ons in eenvoudige zinnen en gelukkig ook langzaam. Verrassend hoe snel je dan Spaans leert! Echter, zodra we buiten de veilige muren van het gastgezin zijn, lijkt het Spaans toch opeens veel moeilijker haha! Mij gaat het luisteren een stuk beter af dan het ook daadwerkelijk spreken. Bij Bas gaat het een stuk sneller en beter, mooi om te zien dat zijn vele uren reizen in de trein naar Zwolle zijn vruchten hebben afgeworpen door te oefenen met Duolingo. Iets waar ik helaas wat minder tijd aan heb besteed thuis.
 
 ![image](https://cloud.githubusercontent.com/assets/8626944/5351366/a6231eb6-7f33-11e4-8ddc-ce666a9993d6.jpg)
