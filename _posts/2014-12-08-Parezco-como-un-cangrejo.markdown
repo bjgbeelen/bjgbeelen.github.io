@@ -1,6 +1,6 @@
 ---
 title: Me parezco cómo un cangrejo
-Author: Sietske
+author: Sietske
 date: 2014-12-08
 location: Valparaíso
 ---
