@@ -16,26 +16,90 @@
 
     </script>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Reenie+Beanie&family=Yanone Kaffeesatz:wght@300&family=Amiri&&family=Roboto+Slab:wght@200&Zilla+Slab:wght@300&display=swap"
+        rel="stylesheet">
 </head>
 
-
+<script>
+    function toggleNav() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+            x.className += " responsive";
+        } else {
+            x.className = "topnav";
+        }
+    }
+</script>
 
 <body>
+    <!-- <div class="topnav" id="myTopnav">
+        <span class="menuitem">BAS BEELEN</span>
+        <span class="menuitem"><a href="#news">BLOG</a></span>
+        <span class="menuitem"><a href="#contact">ABOUT</a></span>
+        <a href="javascript:void(0);" class="icon" onclick="toggleNav()">
+            <i class="fa fa-bars"></i>
+        </a>
+    </div> -->
     <div class="row">
-        <div class="col-5">
+        <div class="col-1"></div>
+        <div class="col-4">
             <img src="portrait.png" id="portrait" />
+
+            <div class="summary">
+                &#x25cf; Bas Beelen &#x25cf; Dutch &#x25cf; Pianist &#x25cf;
+                Composer &#x25cf; <a href="mailto:mail@basbeelen.com">mail@basbeelen.com</a> &#x25cf;
+            </div>
+
         </div>
-        <div class="col-6"><br />
-            I am a Dutch piano enthusiast and <i>Melody Hunter</i>. I have a full-time job working as a software and
-            data
-            engineer, while raising my three beautiful daughters in our young family. Any spare minute I can find
-            though, I'm happy to spent behind the keys.<br /><br />
-            Recently I recorded a few compositions at home. That really gave me a boost again to finish some unfinished
-            pieces and explore new melodies. Stay tuned for more!<br /><br />
-            If you have an opportunity to perform, collaborate or just want to get in touch, please reach me at
-            <a href="mailto:mail@basbeelen.com">mail@basbeelen.com</a>
+        <div class="col-6">
+            <div class="messages">
+                <div class="message">
+                    <span class="date">2020.09.17</span> <span class="title">Panorama</span>
+                    <hr />
+                    <div class="messageBody">
+                        Since I revealed the first three demo tracks back in June, I became really enthusiastic to
+                        finish
+                        some pieces that had been lying around for a while. I had never find an ending for them, or
+                        perhaps said better, for which I didn't take the time to find an ending.
+                        Creativity really got a boost from all the positive reactions and I managed to
+                        finish two pieces in the last couple of months.
+                        Next to that I have a handful of ideas for new pieces, so all in all it has been quite a
+                        productive period.
+                        <br /><br />
+                        I've set myself a goal to have material for a complete album by August 2021. According to
+                        Spotify
+                        that should
+                        be at least 10 songs or a minimum of 30 minutes worth of music :-)<br /><br />
+                        The latest composition that I have recorded at home is called <i>Panorama</i>. And this time you
+                        cannot only listen but also see how it came to exist!
+                        <br /><br />
+                        <iframe width="100%" height="315" src="https://www.youtube.com/embed/xwUH5VjHtfM"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                    </div>
+                </div>
+
+                <div class="message">
+                    <span class="date">2020.06.01</span> <span class="title">Home recordings</span>
+                    <hr />
+                    <div class="messageBody">
+                        <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay"
+                            src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/832897714&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+                        <div
+                            style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
+                            <a href="https://soundcloud.com/basbeelen" title="Bas Beelen" target="_blank"
+                                style="color: #cccccc; text-decoration: none;">Bas Beelen</a> · <a
+                                href="https://soundcloud.com/basbeelen/ii-1" title="Avondritueel / Evening Ritual"
+                                target="_blank" style="color: #cccccc; text-decoration: none;">Avondritueel / Evening
+                                Ritual</a></div>
+                    </div>
+                </div>
+            </div>
         </div>
+    </div>
 </body>
 
 </html>
